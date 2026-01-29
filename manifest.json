@@ -1,0 +1,23 @@
+{
+  "name": "PooMozhi Florist",
+  "short_name": "Florist",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff1f4",
+  "theme_color": "#ff4d6d",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
